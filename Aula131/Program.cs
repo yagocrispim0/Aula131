@@ -38,6 +38,7 @@ for (int i = 1; i <= n; i++)
 
 }
 
+Console.WriteLine();
 Console.WriteLine("PAYMENTS:");
 
 foreach (Employee element in Employees)
